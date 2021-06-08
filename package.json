@@ -1,0 +1,23 @@
+{
+  "name": "readmegenerate",
+  "version": "1.0.0",
+  "description": "A basic README.md generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rudie-g/READMEgenerate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  },
+  "bugs": {
+    "url": "https://github.com/rudie-g/READMEgenerate/issues"
+  },
+  "homepage": "https://github.com/rudie-g/READMEgenerate#readme"
+}
