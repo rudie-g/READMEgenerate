@@ -6,7 +6,7 @@ const util = require('util');
 const writeFileAsync = util.promisify(fs.writeFile);
 const path = require('path');
 
-fs.mkdir(path.join(process.cwd(), 'writeme'), (err) => {
+fs.mkdir(path.join(process.cwd(), 'README'), (err) => {
     if (err) {
         console.log(err.message);
     }
@@ -14,7 +14,7 @@ fs.mkdir(path.join(process.cwd(), 'writeme'), (err) => {
     init();
 });
 
-//Prompt the user questions to populate the README.md
+// Prompt the user with questions
 function promptUser() {
     return inquirer.prompt([{
             type: "input",
@@ -84,7 +84,7 @@ function promptUser() {
 async function init() {
     try {
         const userAnswers = await promptUser();
-        const writeTheFile = writeREADME(answers);
+        const writeTheFile = writeREADME(userAnswers);
         await writeFileAsync(`${userAnswers.dir}/README.md`, writeTheFile);
         console.log("Success!");
     } catch (err) {
