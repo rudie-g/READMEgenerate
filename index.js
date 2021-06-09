@@ -53,16 +53,6 @@ function promptUser() {
             name: "screenshotAlt"
         },
         {
-            type: "list",
-            message: 'How should users contact you?',
-            choices: [
-                "Email",
-                "Github",
-                "Other"
-            ],
-            name: "reachMe"
-        },
-        {
             type: "input",
             message: "Please enter your GitHub username: ",
             name: "username"
@@ -71,11 +61,6 @@ function promptUser() {
             type: "input",
             message: "Please enter your email: ",
             name: "email"
-        },
-        {
-            type: "input",
-            message: "Please enter the path where you'd like to write the readme: ",
-            name: "dir"
         }
     ])
 }
@@ -85,7 +70,7 @@ async function init() {
     try {
         const userAnswers = await promptUser();
         const writeTheFile = writeREADME(userAnswers);
-        await writeFileAsync(`${userAnswers.dir}/README.md`, writeTheFile);
+        await writeFileAsync(`README/README.md`, writeTheFile);
         console.log("Success!");
     } catch (err) {
         console.log(err);
@@ -123,19 +108,18 @@ function writeREADME(data) {
   <br />
   <br />
 
-  ## How to reach me
+  ## Contact
 ---
-  ${data.reachMe}
   <br />
   <br />
   GitHub: [${data.username}](https://github.com/${data.username})
   <br />
   <br />
-  Email me: ${data.email}
+  Email: ${data.email}
   <br />
   <br />
 `
 }
 
 // Function call to initialize app
-init();
+// init();
