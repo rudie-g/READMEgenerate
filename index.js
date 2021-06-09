@@ -19,12 +19,12 @@ function promptUser() {
     return inquirer.prompt([{
             type: "input",
             message: "Please enter the name of your project: ",
-            name: "Title"
+            name: "title"
         },
         {
             type: "input",
             message: "Please give a short summary of your project: ",
-            name: "Summary"
+            name: "summary"
 
         },
         {
@@ -79,13 +79,13 @@ async function init() {
 
 function writeREADME(data) {
     return `
-  <h1>${data.Title}</h1>
+  <h1>${data.title}</h1>
     
   
   ## Description
 ---
   
-  ${data.Summary}
+  ${data.summary}
 
     
   ## Installation
@@ -120,6 +120,3 @@ function writeREADME(data) {
   <br />
 `
 }
-
-// Function call to initialize app
-// init();
