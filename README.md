@@ -41,7 +41,7 @@ Email: rauoldm@gmail.com
 <br />
 <br />
 
-## License 
+## License 📋
 ![badge](https://img.shields.io/badge/license-Open-blue)
 <br />
 This application is covered by <a href=""> no</a> license.
