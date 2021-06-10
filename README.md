@@ -28,22 +28,20 @@ The user can generate multiple README.md files quickly, and the template literal
 ---
 Rudie G (Rauol Moore) 📜
   
-## Screenshot 📸 
+## Screenshot & Video 📸
 ---
-undefined                              | 
-  | <img alt="undefined" src="undefined" width="150" height="150"> |
-  <br />
-  <br />
+[![READMEgenerate Demo](./images/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/18ucGaNlNfCKF5zDyT006FmSfVeojQLrX/view?usp=sharing "writemeREADME Demo")
 
 ## Contact 📠 
 <br />
-GitHub: [rudie-g](https://github.com/rudie-g)
+GitHub: https://github.com/rudie-g
 <br />
 <br />
 Email: rauoldm@gmail.com
 <br />
 <br />
 
-## License ![badge](https://img.shields.io/badge/license-Open-blue)
+## License 
+![badge](https://img.shields.io/badge/license-Open-blue)
 <br />
 This application is covered by <a href=""> no</a> license.

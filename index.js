@@ -163,22 +163,23 @@ ${data.contributing} 📜
   
 ## Screenshot 📸 
 ---
-  |  ${data.screenshotTitle}                              | 
-  | <img alt="${data.screenshotAlt}" src="${data.screenshot}" width="150" height="150"> |
-  <br />
-  <br />
+${data.screenshotTitle}
+<img alt="${data.screenshotAlt}" src="${data.screenshot}" width="150" height="150"> |
+<br />
+<br />
 
 ## Contact 📠 
 ---
 <br />
-GitHub: [${data.username}](https://github.com/${data.username})
+GitHub: https://github.com/${data.username}
 <br />
 <br />
 Email: ${data.email}
 <br />
 <br />
 
-## License ![badge](https://img.shields.io/badge/license-${data.license}-blue)
+## License 
+![badge](https://img.shields.io/badge/license-${data.license}-blue)
 ---
 <br />
 This application is covered by <a href="${lLink}"> ${lName}</a> license.
