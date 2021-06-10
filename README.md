@@ -28,7 +28,7 @@ The user can generate multiple README.md files quickly, and the template literal
 ---
 Rudie G (Rauol Moore) 📜
   
-## Screenshot & Video 📸
+## Screenshot & Video 📸 (click on screenshot to see video)
 ---
 [![READMEgenerate Demo](./images/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/18ucGaNlNfCKF5zDyT006FmSfVeojQLrX/view?usp=sharing "writemeREADME Demo")
 
