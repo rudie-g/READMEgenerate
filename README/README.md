@@ -45,7 +45,7 @@ Email: me@me.com
 <br />
 <br />
 
-## License 
+## License 📋
 ![badge](https://img.shields.io/badge/license-Apache_v2-blue)
 ---
 <br />
