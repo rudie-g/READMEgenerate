@@ -22,7 +22,7 @@ The user will have to use npm i -y and/or npm i inquirer after cloning the repos
   
 ## Usage 🖥️ 
 ---
-The user can generate multiple README.md files quickly, and the template literal syntax can easily be manipulated to reflect what the user wants their markdowns to look like. The user runs node index.js and answers the prompts, and the file is created in the README folder. 🖥️
+The user can generate multiple README.md files quickly, and the template literal syntax can easily be manipulated to reflect what the user wants their markdowns to look like. The user runs node index.js and answers the prompts, and the file is created in the README folder. The user can then move the file to whatever folder they like, adjusting relative file paths if necessary. This README was generated using the app! 🖥️
   
 ## Contributors 📜 
 ---
