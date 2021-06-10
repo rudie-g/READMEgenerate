@@ -137,11 +137,11 @@ function writeREADME(data) {
 
 ## Description 📝 
 ---
-
-    📝 ${data.summary} 📝
+${data.summary} 📝
 
 
 ## Table of Contents  
+---
 - [Installation Instructions ⌨️](#installation-)
 - [Usage 🖥️](#usage-️)
 - [Contributors 📜](#contributors-)
@@ -151,15 +151,15 @@ function writeREADME(data) {
 
 ## Installation ⌨️ 
 ---
-    ⌨️ ${data.installation} ⌨️
+${data.installation} ⌨️
   
 ## Usage 🖥️ 
 ---
-    🖥️ ${data.usage} 🖥️
+${data.usage} 🖥️
   
 ## Contributors 📜 
 ---
-    📜 ${data.contributing} 📜
+${data.contributing} 📜
   
 ## Screenshot 📸 
 ---
