@@ -12,7 +12,7 @@ This project is designed using node.js and inquirer, it prompts the user with qu
 - [Installation Instructions ⌨️](#installation-)
 - [Usage 🖥️](#usage-️)
 - [Contributors 📜](#contributors-)
-- [Screenshots 📸](#screenshots-)
+- [Screenshot & Video 📸](#screenshot--video--click-on-screenshot-to-see-video)
 - [Contact 📠](#contact-)
 - [License 📋](#license-)
 
