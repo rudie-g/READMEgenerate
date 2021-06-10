@@ -14,7 +14,7 @@ This project is designed using node.js and inquirer, it prompts the user with qu
 - [Contributors 📜](#contributors-)
 - [Screenshots 📸](#screenshots-)
 - [Contact 📠](#contact-)
-- [License](#license--)
+- [License](#license-)
 
 ## Installation ⌨️ 
 ---
