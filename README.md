@@ -16,7 +16,7 @@ This project is designed using node.js and inquirer, it prompts the user with qu
 - [Contact 📠](#contact-)
 - [License 📋](#license-)
 
-## Installation ⌨️ 
+## Installation 
 ---
 The user will have to use npm i -y and/or npm i inquirer after cloning the repository to install inquirer, otherwise there is no installation! Hooray! ⌨️
   
