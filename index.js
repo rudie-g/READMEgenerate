@@ -12,7 +12,7 @@ fs.mkdir(path.join(process.cwd(), 'README'), (err) => {
     init();
 });
 
-const licenseArray = [
+const licenseArr = [
     "Apache_v2",
     "Apache License 2.0",
     "https://opensource.org/licenses/Apache-2.0",
@@ -50,12 +50,12 @@ const licenseArray = [
 function promptUser() {
     return inquirer.prompt([{
             type: "input",
-            message: "Please enter the name of your project: ",
+            message: "Please enter the name of your app: ",
             name: "title"
         },
         {
             type: "input",
-            message: "Please give a short summary of your project: ",
+            message: "Please give a short summary of your app: ",
             name: "summary"
 
         },
@@ -66,17 +66,17 @@ function promptUser() {
         },
         {
             type: "input",
-            message: "Please describe product usage: ",
+            message: "Please describe app usage: ",
             name: "usage"
         },
         {
             type: "input",
-            message: "Please list project contributors: ",
+            message: "Please list app contributors: ",
             name: "contributing"
         },
         {
             type: "input",
-            message: "Please add a relative file path  or working URL to a screenshot of the project: ",
+            message: "Please add a relative file path  or working URL to a screenshot of the app: ",
             name: "screenshot",
         },
         {
@@ -96,7 +96,7 @@ function promptUser() {
         },
         {
             type: "list",
-            message: "Chose the appropriate license for this project: ",
+            message: "Chose the appropriate license for this app: ",
             choices: [
                 "Apache_v2",
                 "AFL_v3",
@@ -127,9 +127,9 @@ async function init() {
 }
 
 function writeREADME(data) {
-    let index = licenseArray.indexOf(data.license)
-    let lName = licenseArray[index + 1]
-    let lLink = licenseArray[(index + 2)]
+    let index = licenseArr.indexOf(data.license)
+    let lName = licenseArr[index + 1]
+    let lLink = licenseArr[(index + 2)]
 
     return `# ${data.title}
 ![badge](https://img.shields.io/badge/license-${data.license}-blue)<br />
