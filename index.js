@@ -142,12 +142,12 @@ function writeREADME(data) {
 
 
 ## Table of Contents  
-    - [Installation Instructions ⌨️](#installation-)
-    - [Usage 🖥️](#usage-️)
-    - [Contributors 📜](#contributors-)
-    - [Screenshots 📸](#screenshots-)
-    - [Contact 📠](#contact-)
-    - [License 📋](#license-️)
+- [Installation Instructions ⌨️](#installation-)
+- [Usage 🖥️](#usage-️)
+- [Contributors 📜](#contributors-)
+- [Screenshots 📸](#screenshots-)
+- [Contact 📠](#contact-)
+- [License 📋](#license-️)
 
 ## Installation ⌨️ 
 ---
@@ -170,7 +170,6 @@ function writeREADME(data) {
 
 ## Contact 📠 
 ---
-<br />
 <br />
 GitHub: [${data.username}](https://github.com/${data.username})
 <br />
