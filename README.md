@@ -9,7 +9,7 @@ This project is designed using node.js and inquirer, it prompts the user with qu
 
 ## Table of Contents 
 --- 
-- [Installation Instructions ⌨️](#installation-%EF%B8%8F)
+- [Installation ⌨️](#installation-%EF%B8%8F)
 - [Usage 🖥️](#usage-️)
 - [Contributors 📜](#contributors-)
 - [Screenshot & Video 📸](#screenshot--video--click-on-screenshot-to-see-video)
