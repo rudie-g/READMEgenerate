@@ -178,7 +178,7 @@ Email: ${data.email}
 <br />
 <br />
 
-## License 
+## License 📋
 ![badge](https://img.shields.io/badge/license-${data.license}-blue)
 ---
 <br />
