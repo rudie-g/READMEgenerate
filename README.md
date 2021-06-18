@@ -30,7 +30,7 @@ Rudie G (Rauol Moore) 📜
   
 ## Screenshot & Video 📸 (click on screenshot to see video)
 ---
-[![READMEgenerate Demo](./images/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/18ucGaNlNfCKF5zDyT006FmSfVeojQLrX/view?usp=sharing "writemeREADME Demo")
+[![READMEgenerate Demo](./images/readmeGeneratorScreenshot.png)](https://drive.google.com/file/d/18ucGaNlNfCKF5zDyT006FmSfVeojQLrX/view?usp=sharing "READMEgenerate Demo")
 
 ## Contact 📠 
 <br />
