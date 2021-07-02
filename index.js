@@ -142,12 +142,11 @@ ${data.summary} 📝
 
 ## Table of Contents  
 ---
-- [Installation Instructions ⌨️](#installation-)
-- [Usage 🖥️](#usage-️)
-- [Contributors 📜](#contributors-)
-- [Screenshots 📸](#screenshots-)
-- [Contact 📠](#contact-)
-- [License 📋](#license-️)
+- [Installation Instructions ⌨️](#installation-⌨️)
+- [Usage 🖥️](#usage-🖥️)
+- [Contributors 📜](#contributors-📜)
+- [Contact 📠](#contact-📠)
+- [License 📋](#license-📋)
 
 ## Installation ⌨️ 
 ---

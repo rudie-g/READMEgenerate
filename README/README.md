@@ -1,10 +1,10 @@
-# App Name
-![badge](https://img.shields.io/badge/license-Apache_v2-blue)<br />
+# Employee-DB
+![badge](https://img.shields.io/badge/license-Open-blue)<br />
 
 
 ## Description 📝 
 ---
-summary 📝
+A simple application for tracking and managing employee information using MySQL and Inquirer 📝
 
 
 ## Table of Contents  
@@ -18,35 +18,35 @@ summary 📝
 
 ## Installation ⌨️ 
 ---
-install it ⌨️
+Once you have cloned the repo to your local machine, run npm i -y. If this does not work, make sure you have nodejs installed. ⌨️
   
 ## Usage 🖥️ 
 ---
-use it 🖥️
+If you already have a database on MySQL, go quickly through the code for the app and change "employee_db" wherever you find it to whatever the name of your database is. If you do not have a database yet, but have information to input into a database, copy-paste the text in the schema.sql file, located in the db folder, into MySQL workbench and run it. If you want to use premade data to test the app, copy-paste the seed.sql file into MySQL workbench and run it. Once you have your database, run npm start in the command line. The app will take you to the main menu. If this does not work, make sure you have a .env file with the relevant information to access the database in MySQL workbench and try again. 🖥️
   
 ## Contributors 📜 
 ---
-me 📜
+Rudie G (sole author) 📜
   
 ## Screenshot 📸 
 ---
-  |  undefined                              | 
-  | <img alt="alt" src="file path" width="150" height="150"> |
-  <br />
-  <br />
+undefined
+<img alt="" src="" width="150" height="150"> |
+<br />
+<br />
 
 ## Contact 📠 
 ---
 <br />
-GitHub: https://github.com/me
+GitHub: https://github.com/rudie-g
 <br />
 <br />
-Email: me@me.com
+Email: rauoldm@gmail.com
 <br />
 <br />
 
 ## License 📋
-![badge](https://img.shields.io/badge/license-Apache_v2-blue)
+![badge](https://img.shields.io/badge/license-Open-blue)
 ---
 <br />
-This application is covered by <a href="https://opensource.org/licenses/Apache-2.0"> Apache License 2.0</a> license.
+This application is covered by <a href=""> no</a> license.
