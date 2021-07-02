@@ -11,8 +11,8 @@ This project is designed using node.js and inquirer, it prompts the user with qu
 --- 
 - [Installation ⌨️](#installation-%EF%B8%8F)
 - [Usage 🖥️](#usage-️)
+- [Screenshot & Video 📸](#screenshot--video-📸-click-on-screenshot-to-see-video)
 - [Contributors 📜](#contributors-)
-- [Screenshot & Video 📸](#screenshot--video--click-on-screenshot-to-see-video)
 - [Contact 📠](#contact-)
 - [License 📋](#license-)
 

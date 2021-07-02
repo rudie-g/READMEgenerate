@@ -144,6 +144,7 @@ ${data.summary} 📝
 ---
 - [Installation Instructions ⌨️](#installation-⌨️)
 - [Usage 🖥️](#usage-🖥️)
+- [Screenshot & Video 📸](#screenshot--video-📸-click-on-screenshot-to-see-video)
 - [Contributors 📜](#contributors-📜)
 - [Contact 📠](#contact-📠)
 - [License 📋](#license-📋)
